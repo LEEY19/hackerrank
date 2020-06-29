@@ -59,8 +59,8 @@ function outputLine(string1, string2) {
 
 var input = fs.createReadStream('lines.txt');
 
-// readLines(input, funcString);
-readFewLines(input, 2);
+readLines(input, funcString);
+// readFewLines(input, 2);
 
 //Helper functions
 function funcString(string) {
