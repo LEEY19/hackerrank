@@ -40,4 +40,4 @@ function mergeSort (unsortedArray) {
   );
 }
 
-console.log(mergeSort([-1, 6, 3, 4, 7, 4]));
+console.log(mergeSort([1, 1, 1, 2, 2]));
